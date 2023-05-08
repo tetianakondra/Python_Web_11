@@ -1,5 +1,5 @@
 # Python_Web_11
-To connect to DB, plese, add config.ini to folder "conf" with next info:
+To connect to DB, please, add config.ini to folder "conf" with next info:
 [DEV_DB]
 USER=
 PASSWORD=
